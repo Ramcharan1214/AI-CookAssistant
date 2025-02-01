@@ -65,10 +65,10 @@ Get Responses: The AI assistant will provide detailed, context-aware answers in 
 📂 Project Structure
 Copy
 AI-CookAssistant/
-├── app.py                # Main Streamlit application code
-├── README.md             # Project documentation
-├── requirements.txt      # List of Python dependencies
-└── assets/               # Folder for images or other assets
+├── app.py(Main Streamlit application code)
+├── README.md(Project documentation)
+├── requirements.txt(List of Python dependencies)
+└── assets/(Folder for images or other assets)
 🛑 Limitations
 The assistant is designed to answer only cooking-related questions. It will not respond to unrelated queries.
 
